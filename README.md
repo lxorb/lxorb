@@ -5,7 +5,7 @@
 - 🐧 Linux native
 - <img src="/icons/nixos.png" width=18 height=18>&nbsp; NixOS maximalist
 - ⌨️ Colemak disciple
-- <img src="/icons/neovim.png" width=18 height=18>&nbsp; NeoVim evangelist till `:qa!`
+- <img src="/icons/neovim.png" width=18 height=18>&nbsp; NeoVim evangelist
 
 I believe in reproducibility, keyboard-driven everything, and the sacred ritual of quitting and re-entering nvim instead of using undo. I automate what others tolerate.
 
