@@ -10,7 +10,7 @@
 I believe in reproducibility, keyboard-driven everything, and the sacred ritual of quitting and re-entering nvim instead of using undo. I automate what others tolerate.
 
 - <img src="/icons/whitemind.svg" width=18 height=18>&nbsp; Currently building [WhiteMind](whitemind.net)
-- <img src="/icons/rust-ferris.png" width=18 height=18>&nbsp; Currently learning Rust
+- <img src="/icons/rust-ferris.png" height=22>&nbsp; Currently learning Rust
 
 Private repos? Yeah, I’ve got a few. Let’s just say my GitHub’s got more secrets than you think. 
 
